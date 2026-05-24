@@ -22,7 +22,7 @@ function tampilkanJam() {
   
   let hari;
   switch(hariAngka) {
-    case 0: hari="Minggu"; break;
+    case 0: hari="Ahad"; break;
     case 1: hari="Senin"; break;
     case 2: hari="Selasa"; break;
     case 3: hari="Rabu"; break;
